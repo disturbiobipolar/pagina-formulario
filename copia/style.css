@@ -1,0 +1,132 @@
+* {
+
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.login {
+
+float: left;
+padding: 4%;
+font-weight:normal;
+font-size: 40px;
+color: #155696;
+
+}
+
+fieldset {
+
+margin: 10%;
+text-align: center;
+width:315px;
+height: 500px;
+margin-left: 39%;
+margin-top: 5%;
+background-color: white;
+box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+border-color: white;
+outline: none;
+border-style: none;
+
+
+}
+
+#xis {
+
+float: right;
+background-color: transparent;
+outline: none;
+border-style: none;
+height: 5%;
+font-size: 40;
+padding-left: 70%;
+
+}
+
+.usuario {
+
+color: rgb(94, 94, 94);
+padding-right: 43.4%;
+}
+
+.senhas {
+
+color: rgb(94, 94, 94);
+padding-right: 46%;
+}
+
+input {
+
+margin: 3%;
+padding: 3%;
+background-color: rgb(212, 212, 212);
+width: 82%;
+margin-inline: 0;
+border-style: none;
+
+
+}
+
+
+#user {
+
+margin-bottom: 11%;
+
+}
+
+.one {
+
+padding-top: 30%;
+
+
+}
+
+#enter {
+
+width: 87%;
+height: 50%;
+padding: 3%;
+border-style: none;
+color: rgb(255, 255, 255);
+background-color: #155696;
+margin-bottom: 5%;
+
+}
+
+.showpass {
+
+
+padding: 5%;
+font-size: 15px;
+float: right;
+color: rgb(110, 110, 110);
+}
+
+.showpass input {
+
+border-top: 30%;
+background-color:#155696;
+
+
+}
+
+a {
+
+text-decoration: none;
+padding: 5% ;
+
+
+}
+
+.noaccount a {
+
+color: rgb(110, 110, 110)   
+}
+
+.create a {
+
+
+ color: #155696;  
+}
