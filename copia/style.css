@@ -4,13 +4,29 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 
 }
 
+body {
+
+
+
+}
+
 .login {
 
 float: left;
 padding: 4%;
 font-weight:normal;
-font-size: 40px;
+font-size: 35px;
 color: #155696;
+
+}
+
+.all {
+
+margin-bottom: 900px;
+margin-left: 16px;
+position: absolute;
+background-color: transparent;
+width: 21.5%;
 
 }
 
@@ -19,7 +35,7 @@ fieldset {
 margin: 10%;
 text-align: center;
 width:315px;
-height: 500px;
+height: 540px;
 margin-left: 39%;
 margin-top: 5%;
 background-color: white;
@@ -40,31 +56,35 @@ background-color: transparent;
 outline: none;
 border-style: none;
 height: 5%;
-font-size: 40;
-padding-left: 70%;
+padding-top: 4.5%;
+font-size: 20px;
+padding-left: 72%;
+padding-bottom: 20%;
+color: rgb(124, 124, 124);
 
 }
 
 .usuario {
 
 color: rgb(94, 94, 94);
-padding-right: 43.4%;
+padding-right: 42.4%;
 }
 
 .senhas {
 
 color: rgb(94, 94, 94);
-padding-right: 46%;
+padding-right: 45%;
 }
 
-input {
+.inputes input {
 
 margin: 3%;
 padding: 3%;
 background-color: rgb(212, 212, 212);
-width: 82%;
+width: 93%;
 margin-inline: 0;
 border-style: none;
+position: relative;
 
 
 }
@@ -78,7 +98,7 @@ margin-bottom: 11%;
 
 .one {
 
-padding-top: 30%;
+padding-top: 10%;
 
 
 }
@@ -86,12 +106,13 @@ padding-top: 30%;
 #enter {
 
 width: 87%;
-height: 50%;
+height: 10%;
 padding: 3%;
 border-style: none;
 color: rgb(255, 255, 255);
 background-color: #155696;
 margin-bottom: 5%;
+width: 100% ;
 
 }
 
@@ -101,32 +122,50 @@ margin-bottom: 5%;
 padding: 5%;
 font-size: 15px;
 float: right;
+height: 30px;
+
 color: rgb(110, 110, 110);
 }
 
-.showpass input {
+#showsenha input {
 
 border-top: 30%;
+padding-right: 30px;
 background-color:#155696;
 
+
+}
+
+ label #showsenha{
+
+float: right;
 
 }
 
 a {
 
 text-decoration: none;
-padding: 5% ;
+
+margin: 10%;
+position: absolute;
 
 
 }
 
 .noaccount a {
 
-color: rgb(110, 110, 110)   
+color: rgb(110, 110, 110); 
+margin: 10%;
+margin-bottom: 15px;
+position: relative;
+display: block;
 }
 
 .create a {
 
-
+width: 100%;
+margin-top: 40px;
  color: #155696;  
+ font-weight: bold;
+ position: relative;
 }
