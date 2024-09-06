@@ -1,0 +1,182 @@
+* {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    }
+    
+    body {
+    
+    
+    
+    }
+    
+    .login {
+    
+    float: left;
+    padding: 4%;
+    font-weight:normal;
+    font-size: 35px;
+    color: #155696;
+    
+    }
+    
+    .all {
+    
+    margin-bottom: 100px;
+    margin-left: 16px;
+    position: absolute;
+    background-color: transparent;
+    width: 21.5%;
+    
+    }
+    
+    fieldset {
+    
+    margin: 10%;
+    text-align: center;
+    width:315px;
+    height: 540px;
+    margin-left: 39%;
+    margin-top: 5%;
+    background-color: white;
+    box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+    border-color: white;
+    outline: none;
+    border-style: none;
+    
+    
+    }
+    
+    #xis {
+    
+    float: right;
+    background-color: transparent;
+    outline: none;
+    border-style: none;
+    height: 5%;
+    padding-top: 4.5%;
+    font-size: 20px;
+    padding-left: 72%;
+    padding-bottom: 20%;
+    color: rgb(124, 124, 124);
+    
+    }
+    
+    .usuario {
+    
+    color: rgb(94, 94, 94);
+    padding-right: 92.4%;
+    margin-bottom: -2%;
+    }
+    
+    .senhas {
+    
+    color: rgb(94, 94, 94);
+    padding-right: 95%;
+
+    }
+    
+    .confirm {
+
+        color: rgb(94, 94, 94);
+        padding-right: 50%;
+        }     
+
+    
+
+    .inputes input {
+    
+    margin: 3%;
+    padding: 3%;
+    background-color: rgb(212, 212, 212);
+    width: 93%;
+    margin-inline: 0;
+    border-style: none;
+    position: relative;
+    margin-bottom: 9%;
+    display: block;
+    
+    
+    }
+    
+    
+    #user {
+    
+    margin-bottom: 11%;
+    
+    }
+    
+    .one {
+    
+    padding-top: 10%;
+    
+    
+    }
+    
+    #enter {
+    
+    width: 87%;
+    padding: 3%;
+    border-style: none;
+    color: rgb(255, 255, 255);
+    background-color: #155696;
+    margin-bottom: ;
+    width: 100% ;
+    
+    }
+    
+    .showpass {
+    
+    
+    padding: 5%;
+    font-size: 15px;
+    float: right;
+    height: 30px;
+    
+    color: rgb(110, 110, 110);
+    }
+    
+    #showsenha input {
+    
+    border-top: 30%;
+    padding-right: 30px;
+    background-color:#155696;
+    
+    
+    }
+    
+     label #showsenha{
+    
+    float: right;
+    
+    }
+    
+    a {
+    
+    text-decoration: none;
+    
+    margin: 10%;
+    position: absolute;
+    
+    
+    }
+    
+    .noaccount a {
+    
+    color: rgb(110, 110, 110); 
+    margin: 10%;
+    margin-bottom: 15px;
+    position: relative;
+    display: block;
+    }
+    
+    .create a {
+    
+    width: 100%;
+    margin-top: 40px;
+     color: #155696;  
+     font-weight: bold;
+     position: relative;
+    }
